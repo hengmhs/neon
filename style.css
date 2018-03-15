@@ -1,0 +1,29 @@
+body {
+	background-color: black;
+}
+
+
+#i {
+    text-align: center;
+    font-family: "Courier New";
+    color: green;
+    font-size: 2em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+p {
+    text-align: left;
+    font-family: "Courier New";
+    color: green;
+    font-size: 1.5em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+img.neon
+{
+    max-width: 100%;
+    min-width: 300px;
+    height: auto;
+}
